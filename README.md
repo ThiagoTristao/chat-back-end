@@ -33,7 +33,8 @@ URL:
 http://localhost:3333/v1/chat/send-message
 ```
 
-2. The body need to be a JSON. Send a body with a message.
+2. The body need to be a JSON. Send a body with a message
+
 JSON:
 ```
 {
