@@ -12,6 +12,15 @@
   ```
   yarn install
   ```
+  ## Insert chat GPT key in .env:
+  You need to create account and get api key from below link:
+  ```
+  https://platform.openai.com/account/api-keys
+  ```
+  Set chat GPT api key in the file .env
+  ```
+  API_KEY="YOUR_API_KEY"
+  ```
   
 ## Running Project:
 
